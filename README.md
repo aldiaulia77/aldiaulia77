@@ -1,5 +1,5 @@
 <!-- 🔥 Banner Header -->
-![Banner](https://github.com/aldiaulia77/aldiaulia77/blob/main/aldis.png?raw=true)
+![Banner](https://github.com/aldiaulia77/aldiaulia77/blob/main/aldis.png)
 
 <h1 align="center">Hi 👋, I'm Aldi Aulia Ramadhani</h1>
 <h3 align="center">A passionate Web & Python Developer</h3>
@@ -48,6 +48,17 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=aldiaulia77&theme=darkhub&no-bg=true&margin-w=15" />
 </p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/aldiaulia77/aldiaulia77/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 

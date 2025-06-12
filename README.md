@@ -1,5 +1,5 @@
 <!-- 🔥 Banner Header -->
-![Banner](https://github.com/aldiramadhani074/aldiramadhani074/blob/main/aldis.png)
+![Banner](https://github.com/aldiramadhani074/aldiramadhani074/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Aldi Aulia Ramadhani</h1>
 <h3 align="center">A passionate Web & Python Developer</h3>
@@ -29,6 +29,17 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aldiramadhani074&show_icons=true&theme=tokyonight" alt="Aldi's GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=aldiramadhani074&theme=tokyonight" alt="Aldi's GitHub streak" />
+</p>
+
+---
+
+### 🧠 GitHub Summary Cards:
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldiramadhani074&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldiramadhani074&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldiramadhani074&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldiramadhani074&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldiramadhani074&theme=dark&utcOffset=+7" />
 </p>
 
 ---

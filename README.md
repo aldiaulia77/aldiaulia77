@@ -1,3 +1,6 @@
+<!-- 🔥 Banner Header -->
+![Banner](https://github.com/aldiramadhani074/aldiramadhani074/blob/main/aldis.png)
+
 <h1 align="center">Hi 👋, I'm Aldi Aulia Ramadhani</h1>
 <h3 align="center">A passionate Web & Python Developer</h3>
 

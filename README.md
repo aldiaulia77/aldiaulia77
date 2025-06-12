@@ -1,11 +1,11 @@
 <!-- 🔥 Banner Header -->
-![Banner](https://github.com/aldiramadhani074/aldiramadhani074/blob/main/banner.png)
+![Banner](https://github.com/aldiaulia77/aldiaulia77/blob/main/aldis.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Aldi Aulia Ramadhani</h1>
 <h3 align="center">A passionate Web & Python Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aldiramadhani074&label=Profile%20views&color=0e75b6&style=flat" alt="aldiramadhani074" />
+  <img src="https://komarev.com/ghpvc/?username=aldiaulia77&label=Profile%20views&color=0e75b6&style=flat" alt="aldiaulia77" />
 </p>
 
 ---
@@ -27,26 +27,26 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldiramadhani074&show_icons=true&theme=tokyonight" alt="Aldi's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=aldiramadhani074&theme=tokyonight" alt="Aldi's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aldiaulia77&show_icons=true&theme=tokyonight" alt="Aldi's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=aldiaulia77&theme=tokyonight" alt="Aldi's GitHub streak" />
 </p>
 
 ---
 
 ### 🧠 GitHub Summary Cards:
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldiramadhani074&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldiramadhani074&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldiramadhani074&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldiramadhani074&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldiramadhani074&theme=dark&utcOffset=+7" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldiaulia77&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldiaulia77&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldiaulia77&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldiaulia77&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldiaulia77&theme=dark&utcOffset=+7" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophy Wall:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aldiramadhani074&theme=darkhub&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aldiaulia77&theme=darkhub&no-bg=true&margin-w=15" />
 </p>
 
 ---

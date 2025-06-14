@@ -4,14 +4,15 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # WAJIB agar github-actions bisa push
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: aldiaulia77
           outputs: |
